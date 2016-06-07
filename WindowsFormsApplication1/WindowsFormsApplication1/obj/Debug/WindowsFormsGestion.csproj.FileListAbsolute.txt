@@ -1,0 +1,67 @@
+c:\users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gestion.resources
+c:\users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsGestion.csproj.GenerateResource.Cache
+c:\users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsGestion.csprojResolveAssemblyReference.cache
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BuisnessLayer.dll
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ModelLayer.dll
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataLayer.dll
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BuisnessLayer.pdb
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ModelLayer.pdb
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataLayer.pdb
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsGestion.csprojResolveAssemblyReference.cache
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BuisnessLayer.dll
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ModelLayer.dll
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataLayer.dll
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BuisnessLayer.pdb
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ModelLayer.pdb
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataLayer.pdb
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsGestion.csprojResolveAssemblyReference.cache
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gestion.resources
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsGestion.csproj.GenerateResource.Cache
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mansato\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BuisnessLayer.dll
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ModelLayer.dll
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataLayer.dll
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BuisnessLayer.pdb
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ModelLayer.pdb
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataLayer.pdb
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsGestion.csprojResolveAssemblyReference.cache
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gestion.resources
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsGestion.csproj.GenerateResource.Cache
+C:\Users\mansato\Documents\GitHub\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mansato\Documents\GitHub\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mansato\Documents\GitHub\ccp1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BuisnessLayer.dll
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ModelLayer.dll
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataLayer.dll
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BuisnessLayer.pdb
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ModelLayer.pdb
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataLayer.pdb
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsGestion.csprojResolveAssemblyReference.cache
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gestion.resources
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsGestion.csproj.GenerateResource.Cache

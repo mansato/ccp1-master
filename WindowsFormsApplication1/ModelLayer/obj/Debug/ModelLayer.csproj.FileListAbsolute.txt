@@ -1,0 +1,24 @@
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\ModelLayer\bin\Debug\ModelLayer.dll
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\ModelLayer\bin\Debug\ModelLayer.pdb
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.csprojResolveAssemblyReference.cache
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.dll
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.pdb
+F:\WindowsFormsApplication1\ModelLayer\bin\Debug\ModelLayer.dll
+F:\WindowsFormsApplication1\ModelLayer\bin\Debug\ModelLayer.pdb
+F:\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.dll
+F:\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.pdb
+C:\Users\mansato\Desktop\WindowsFormsApplication1\ModelLayer\bin\Debug\ModelLayer.dll
+C:\Users\mansato\Desktop\WindowsFormsApplication1\ModelLayer\bin\Debug\ModelLayer.pdb
+C:\Users\mansato\Desktop\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.csprojResolveAssemblyReference.cache
+C:\Users\mansato\Desktop\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.dll
+C:\Users\mansato\Desktop\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.pdb
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\ModelLayer\bin\Debug\ModelLayer.dll
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\ModelLayer\bin\Debug\ModelLayer.pdb
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.csprojResolveAssemblyReference.cache
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.dll
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.pdb
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\ModelLayer\bin\Debug\ModelLayer.dll
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\ModelLayer\bin\Debug\ModelLayer.pdb
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.csprojResolveAssemblyReference.cache
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.dll
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\ModelLayer\obj\Debug\ModelLayer.pdb

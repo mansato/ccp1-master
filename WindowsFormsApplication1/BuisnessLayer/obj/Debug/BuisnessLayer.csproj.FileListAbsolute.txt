@@ -1,0 +1,45 @@
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\BuisnessLayer\bin\Debug\DataLayer.dll
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\BuisnessLayer\bin\Debug\ModelLayer.dll
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\BuisnessLayer\bin\Debug\DataLayer.pdb
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\BuisnessLayer\bin\Debug\ModelLayer.pdb
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+F:\WindowsFormsApplication1\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+F:\WindowsFormsApplication1\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+F:\WindowsFormsApplication1\BuisnessLayer\bin\Debug\DataLayer.dll
+F:\WindowsFormsApplication1\BuisnessLayer\bin\Debug\ModelLayer.dll
+F:\WindowsFormsApplication1\BuisnessLayer\bin\Debug\DataLayer.pdb
+F:\WindowsFormsApplication1\BuisnessLayer\bin\Debug\ModelLayer.pdb
+F:\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+F:\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\mansato\Desktop\WindowsFormsApplication1\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\mansato\Desktop\WindowsFormsApplication1\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\mansato\Desktop\WindowsFormsApplication1\BuisnessLayer\bin\Debug\DataLayer.dll
+C:\Users\mansato\Desktop\WindowsFormsApplication1\BuisnessLayer\bin\Debug\ModelLayer.dll
+C:\Users\mansato\Desktop\WindowsFormsApplication1\BuisnessLayer\bin\Debug\DataLayer.pdb
+C:\Users\mansato\Desktop\WindowsFormsApplication1\BuisnessLayer\bin\Debug\ModelLayer.pdb
+C:\Users\mansato\Desktop\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\mansato\Desktop\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\mansato\Desktop\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\BuisnessLayer\bin\Debug\DataLayer.dll
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\BuisnessLayer\bin\Debug\ModelLayer.dll
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\BuisnessLayer\bin\Debug\DataLayer.pdb
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\BuisnessLayer\bin\Debug\ModelLayer.pdb
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\cbonfigli\Documents\ccp1\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\BuisnessLayer\bin\Debug\DataLayer.dll
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\BuisnessLayer\bin\Debug\ModelLayer.dll
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\BuisnessLayer\bin\Debug\DataLayer.pdb
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\BuisnessLayer\bin\Debug\ModelLayer.pdb
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\mansato\Desktop\ccp1-master\WindowsFormsApplication1\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
